@@ -1,0 +1,13 @@
+C:\Users\davim\source\repos\av1designpatterns\av1designpatterns\bin\Debug\netcoreapp3.1\av1designpatterns.exe
+C:\Users\davim\source\repos\av1designpatterns\av1designpatterns\bin\Debug\netcoreapp3.1\av1designpatterns.deps.json
+C:\Users\davim\source\repos\av1designpatterns\av1designpatterns\bin\Debug\netcoreapp3.1\av1designpatterns.runtimeconfig.json
+C:\Users\davim\source\repos\av1designpatterns\av1designpatterns\bin\Debug\netcoreapp3.1\av1designpatterns.runtimeconfig.dev.json
+C:\Users\davim\source\repos\av1designpatterns\av1designpatterns\bin\Debug\netcoreapp3.1\av1designpatterns.dll
+C:\Users\davim\source\repos\av1designpatterns\av1designpatterns\bin\Debug\netcoreapp3.1\av1designpatterns.pdb
+C:\Users\davim\source\repos\av1designpatterns\av1designpatterns\obj\Debug\netcoreapp3.1\av1designpatterns.csprojAssemblyReference.cache
+C:\Users\davim\source\repos\av1designpatterns\av1designpatterns\obj\Debug\netcoreapp3.1\av1designpatterns.AssemblyInfoInputs.cache
+C:\Users\davim\source\repos\av1designpatterns\av1designpatterns\obj\Debug\netcoreapp3.1\av1designpatterns.AssemblyInfo.cs
+C:\Users\davim\source\repos\av1designpatterns\av1designpatterns\obj\Debug\netcoreapp3.1\av1designpatterns.csproj.CoreCompileInputs.cache
+C:\Users\davim\source\repos\av1designpatterns\av1designpatterns\obj\Debug\netcoreapp3.1\av1designpatterns.dll
+C:\Users\davim\source\repos\av1designpatterns\av1designpatterns\obj\Debug\netcoreapp3.1\av1designpatterns.pdb
+C:\Users\davim\source\repos\av1designpatterns\av1designpatterns\obj\Debug\netcoreapp3.1\av1designpatterns.genruntimeconfig.cache
